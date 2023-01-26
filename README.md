@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eur1p3des" alt="eur1p3des" /></a> </p>
 
-- 🔭 I’m currently working on [Chrome passwords stealer with python](https://github.com/eur1p3des/Chrome-Password-steal.git)
+- 🔭 I’m currently working on [ESINMath](https://github.com/eur1p3des/esinmath.git)
 
 - 🌱 I’m currently learning **Python**
 
