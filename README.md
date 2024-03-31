@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eur1p3des&label=Profile%20views&color=0e75b6&style=flat-square" alt="eur1p3des" /> </p>
 
-- 🔭 I’m currently working on [ESINMath](https://github.com/eur1p3des/esinmath.git)
+- 🔭 I’m currently working on [Craaxify](https://github.com/CRAAXify/A2)
 
 - 🌱 I’m currently learning **Python**
 
